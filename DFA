@@ -1,6 +1,6 @@
 #include <stdio.h> 
 #include <string.h> 
-// Function to simulate the DFA 
+//Function to simulate the DFA 
 int dfa(char *input) { 
 int state = 0; // Start state 
 int i;
