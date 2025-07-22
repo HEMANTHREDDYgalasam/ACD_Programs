@@ -4,7 +4,7 @@
 int dfa(char *input) { 
 int state = 0; // Start state 
 int i;
-         //
+//
  Declare the variable outside the loop 
 // Traverse the input string character by character 
 for (i = 0; i < strlen(input); i++) { 
